@@ -2,9 +2,9 @@
   "name": "myFristProject",
   "version": "1.0.0",
   "description": "Your project description",
-  "main": "index.js", // Entry point of your application
+  "main": "App.js", // Entry point of your application
   "scripts": {
-    "start": "node index.js" // Example script to start your application
+    "start": "node App.js" // Example script to start your application
   },
   "dependencies": {
     // Your project dependencies go here
